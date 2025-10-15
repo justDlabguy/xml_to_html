@@ -39,7 +39,9 @@ Convert XML configuration files into interactive HTML forms with custom styling 
 
 1. **Run the App**:
    ```bash
-   streamlit run xml_to_html_streamlit.py
+   streamlit run xml_to_html_streamlit.py in terminal 
+   or
+  open  `run_streamlit_app.bat` in file_explorer
    ```
 
 2. **Upload XML**:
