@@ -158,4 +158,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Support
 
-For questions or issues, please contact [your contact information] or open an issue on the repository.
+For questions or issues, please open an issue on the repository.
